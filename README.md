@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-sushiware-red)
+![Issues open](https://img.shields.io/github/issues/crashbrz/3s)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/crashbrz/3s)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/crashbrz/3s)
+![GitHub last commit](https://img.shields.io/github/last-commit/crashbrz/3s)
+
 ### 3s - Save the ScreenShot ###
 
 **3s (Save the ScreenShot)** is a command-line tool written in Go that automates the process of capturing website screenshots using a headless Chrome browser. It supports custom headers, proxy settings, multithreading, and timeouts.
