@@ -63,5 +63,10 @@ go build -o 3s
 ### Note on Performance ###
 **Warning:** Using too many threads can make your computer slow because each thread launches a headless browser instance. Adjust the `-threads` value based on your system’s capabilities.
 
+### Dependecies ###
+	github.com/chromedp/cdproto/network
+	github.com/chromedp/chromedp
+	golang.org/x/net/context
+
 ### License ###
 3s is licensed under the SushiWare license. For more information, check [docs/license.txt](docs/license.txt).
